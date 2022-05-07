@@ -1,0 +1,7 @@
+C:\Users\PC\Desktop\practica 2\practica 2\obj\Debug\net6.0-windows\practica 2.vbproj.AssemblyReference.cache
+C:\Users\PC\Desktop\practica 2\practica 2\obj\Debug\net6.0-windows\practica_2.Form1.resources
+C:\Users\PC\Desktop\practica 2\practica 2\obj\Debug\net6.0-windows\practica 2.vbproj.GenerateResource.cache
+C:\Users\PC\Desktop\practica 2\practica 2\obj\Debug\net6.0-windows\practica 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\practica 2\practica 2\obj\Debug\net6.0-windows\practica 2.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\practica 2\practica 2\obj\Debug\net6.0-windows\practica 2.AssemblyInfo.vb
+C:\Users\PC\Desktop\practica 2\practica 2\obj\Debug\net6.0-windows\practica 2.vbproj.CoreCompileInputs.cache
