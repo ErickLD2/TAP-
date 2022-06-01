@@ -1,0 +1,8 @@
+MIDlet-1: Calculo del area de un triangulo,,trianguloapp.HelloMIDlet
+MIDlet-Jar-Size: 2577
+MIDlet-Jar-URL: TrianguloApp.jar
+MIDlet-Name: TrianguloApp
+MIDlet-Vendor: Vendor
+MIDlet-Version: 1.0
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.0
